@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pritam Mukherjee 👋
 
-<!--
-**JoeMukherjee/JoeMukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agentic / harness / backend engineer based in Bengaluru, India. Currently building at Dotsin.ai x Assessli.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joe--mukherjee786-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-mukherjee786/)
+[![Email](https://img.shields.io/badge/Email-pritammukherjeejoey786%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pritammukherjeejoey786@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me on LinkedIn: [linkedin.com/in/joe-mukherjee786](https://www.linkedin.com/in/joe-mukherjee786/)**
+
+## What I work on
+
+**Agent harnesses:** [Meta-Evolver](https://github.com/JoeMukherjee/Meta-Evolver), an open-source self-improving agent harness.
+
+**LLM inference and serving:** Intel Xeon AMX latency work (OpenVINO BF16/INT8), 1,260 ms to 9.1 ms.
+
+**Causal and behavioural AI research:** co-author of two arXiv papers (2606.09672, 2605.27580).
+
+**AI backend systems:** FastAPI/TypeScript services, Kafka/Redis streams, Memgraph/Qdrant.
